@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning HTML, CSS, JavaScript and Git.
 - 💞️ I’m looking to collaborate on open source projects.
 - 💼 I would like to have my first job in the techonology field as a web developer.
+- 💪 I love challenges!
 - 📫 You can reach me via email: angellonzgz@gmail.com. 
