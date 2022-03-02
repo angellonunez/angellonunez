@@ -1,8 +1,7 @@
 - 👋 Hi, my name is Angello Nunez. You can find me on Github and Twitter as @angellonunez.
 - 💜 I love techonology.
 - 🔨 I have created dozens of websites with WordPress... Yeah, WordPress.
-- 🌱 I’m currently learning HTML, CSS, JavaScript and Git.
-- 💞️ I’m looking to collaborate on open source projects.
-- 💼 I would like to have my first job in the techonology field as a web developer.
+- 🌱 I’m currently learning React.
+- 💼 I would like to have my first job as a Front End Developer.
 - 💪 I love challenges!
 - 📫 You can reach me via email: angellonzgz@gmail.com.
