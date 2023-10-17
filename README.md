@@ -1,7 +1,7 @@
-- 👋 Hi, my name is Angello Nunez. You can find me on Github and Twitter as @angellonunez.
+- 👋 Hi, my name is Angello Nunez.
 - 💜 I love techonology.
-- 🔨 I have created dozens of websites with WordPress... Yeah, WordPress.
-- 🌱 I’m currently learning React.
-- 💼 I would like to have my first job as a Front End Developer.
+- 🎓 I am a Software Engineering student at Western Governors University.
+- 🌱 I’m currently learning JavaScript.
+- 💼 I would like to have my first job as a Software Engineer soon.
 - 💪 I love challenges!
 - 📫 You can reach me via email: angellonzgz@gmail.com.
