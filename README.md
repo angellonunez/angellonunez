@@ -1,7 +1,6 @@
 - 👋 Hi, my name is Angello Nunez.
 - 💜 I love techonology.
 - 🎓 I am a Software Engineering student at Western Governors University.
-- 🌱 I’m currently learning JavaScript.
-- 💼 I would like to have my first job as a Software Engineer soon.
+- 🌱 Trying to change the world!
 - 💪 I love challenges!
 - 📫 You can reach me via email: angellonzgz@gmail.com.
